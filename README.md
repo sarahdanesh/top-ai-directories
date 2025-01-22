@@ -4,8 +4,13 @@ This repository provides an organized collection of AI directories, ranked from 
 
 ---
 
+Sponsored by [There's an AI](https://theresanai.com)
+
+
+
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
+| [There's An AI](https://thenextaidirectory.com/go/theres-an-ai) | 25 | A curated collection of top AI tools |
 | [Futurepedia](https://thenextaidirectory.com/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Robopost](https://thenextaidirectory.com/go/robopost) | 69 | Discover the best AI websites & tools |
 | [Toolify.ai](https://thenextaidirectory.com/go/toolify-ai) | 69 | Discover the best AI websites & tools |
